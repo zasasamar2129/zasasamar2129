@@ -1,3 +1,4 @@
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zasasamar2129&show_icons=true&theme=dark"
@@ -10,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zasasamar2129&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zasasamar2129&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Hi there 👋
 
