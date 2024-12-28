@@ -9,7 +9,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=zasasamar2129&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zasasamar2129)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zasasamar2129&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hi there 👋
 
 <!--
